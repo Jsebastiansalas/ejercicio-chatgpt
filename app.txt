@@ -3,7 +3,8 @@ feature login implemented
 feature register implemented
 feature dashborad implemented
 Version 1.0.0 lista para produccion
-Security patch applied
 feature profile implemented
 feature search implemented
+Security patch applied
+
 
