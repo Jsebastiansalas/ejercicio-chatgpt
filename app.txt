@@ -2,4 +2,4 @@ version incial del proyecto
 feature login implemented
 feature register implemented
 feature dashborad implemented
-
+Version 1.0.0 lista para produccion
